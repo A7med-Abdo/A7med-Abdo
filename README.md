@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my friend 👋
 
 <!--
 **A7med-Abdo/A7med-Abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
